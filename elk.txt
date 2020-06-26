@@ -1,0 +1,8 @@
+check_folder.py[line:252] INFO sleep 1 second for imgage writing
+camera_station.py[line:180] INFO send detect data to confirm server SUCCEED
+camera_station.py[line:323] WARNING send the image to http://172.26.23.254:8001/vi_detect
+camera_station.py[line:326] INFO image sent
+check_folder.py[line:265] INFO get a new file 20200114092123201M6N6052393217.jpg
+check_folder.py[line:116] ERROR get new images ['20200114092123201M6N6052393217.jpg']
+camera_station.py[line:513] INFO get a new image D:\ccc\20200114\DayFlight\201M6N6052393217.jpg
+confirm_server.py[line:73] INFO get a confirm task from client
